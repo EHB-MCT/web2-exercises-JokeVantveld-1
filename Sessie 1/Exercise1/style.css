@@ -1,0 +1,31 @@
+body { 
+    background-color: lavender;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32pt;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+#forms {
+    text-align: center;
+}
+
+#labels {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    
+}
+
+#submit {
+    padding: 5 50 5 50;
+    color: rgb(72, 38, 88);
+    background-color: lavender;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-color: rgb(72, 38, 88); 
+    border-width: 2px;
+}
+

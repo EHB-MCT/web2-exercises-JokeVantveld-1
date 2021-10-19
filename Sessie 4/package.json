@@ -1,0 +1,19 @@
+{
+  "name": "demo-sessie-4",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joke Van 'tveld",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.5.1",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.1"
+  }
+}
